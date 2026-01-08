@@ -1,0 +1,14 @@
+[
+
+    {
+        "identifier": "Stackryze - v4",
+        "host": "188.245.207.225",
+        "port": 2333,
+        "password": "youshallnotpass",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "Sudheer",
+        "website": "https://stackryze.com",
+        "discord": "https://discord.gg/stackryze"
+    }
+]
