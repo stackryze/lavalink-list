@@ -1,5 +1,4 @@
 [
-
     {
         "identifier": "Stackryze - v4",
         "host": "188.245.207.225",
@@ -10,5 +9,16 @@
         "authorId": "Sudheer",
         "website": "https://stackryze.com",
         "discord": "https://discord.gg/stackryze"
+    },
+    {
+        "identifier": "Nodelink - Germany",
+        "host": "swappi.ng",
+        "port": 443,
+        "password": "discord.gg/nxyy",
+        "secure": true,
+        "restVersion": "v4",
+        "authorId": "nxyy",
+        "website": "https://nxyy.codes",
+        "discord": "https://discord.gg/nxyy"
     }
 ]
