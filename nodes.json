@@ -10,5 +10,16 @@
         "authorId": "Sudheer",
         "website": "https://stackryze.com",
         "discord": "https://discord.gg/stackryze"
+    },
+    {
+        "identifier": "Nazha - Main (US)",
+        "host": "lavalink.nazha.online",
+        "port": 443,
+        "password": "nazhafreelava",
+        "secure": true,
+        "restVersion": "v4",
+        "authorId": "knownasrazi",
+        "website": "https://github.com/knownasrazi/nazha-free-lavalink",
+        "discord": "https://discord.gg/XeSCnk57ZF"
     }
 ]
